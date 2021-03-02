@@ -6,6 +6,6 @@
 
  Remember to edit the encoding, since each file can be different. For example, the most common ones are "utf-8" and "ansi". Check before using.
 
- The text file left there serves as an example of what the formatting should be for the script to work
+ The text file in here serves as an example of how the formatting should be for the script to work
 
  To run it just execute in the CMD or in the Terminal with Python3.6+.
