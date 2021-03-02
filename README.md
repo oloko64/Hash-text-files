@@ -3,6 +3,20 @@
  
  It produces md5, sha1, sha256, sha512 files as the output. I will be adding more hashes in the future.
  
+  
+ At the end of the hash a {\t => \t} is placed, for clearly define the start and end of the string. 
+ Example of the output file in sha256:
+ 
+ ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb	=>	a
+ 3e23e8160039594a33894f6564e1b1348bbd7a0088d42c4acb73eeaed59c009d	=> b
+ 2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6	=>	c
+ 
+ .
+ .
+ 
+ 
+
+ 
  Every hash function in this script is processed in a separate thread.
  
  # How to use
