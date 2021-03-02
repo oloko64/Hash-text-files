@@ -4,7 +4,7 @@
  It produces md5, sha1, sha256, sha512 files as the output. I will be adding more hashes in the future.
  
   
- At the end of the hash a {\t => \t} is placed, for clearly define the start and end of the string. 
+ At the end of the hash a {\t => \t} is placed, to clearly define the start and end of the string. 
  Example of the output file in sha256:
  
  ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb	=>	a
