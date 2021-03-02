@@ -1,7 +1,11 @@
+# This script was created by OLoKo64, feel free to use or modify it, but following the GPL-3.0 Licence.
+
+
 import hashlib
 import threading
 
-# Parameters to change
+# Parameters to change, file location and the encoding used in the files
+# If the encoder is wrong, it can mess up the hash
 # ---------------------------------------------------------------
 file = "test.txt"
 encoding = "ansi"
